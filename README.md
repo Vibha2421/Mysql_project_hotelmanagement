@@ -10,37 +10,59 @@ Question - 2] List all unique first names of customers for a duplicate check.
 Question - 3] Delete all rooms with Capacity = 1. 
 <br>
 Question - 4] Display each customer’s name and phone number together using CONCAT. 
+<br>
 Question - 5] The booking office wants to see bookings where RoomID = 10 to check utilization 
 of a specific room. 
 (Rooms subquery) 
 Phone. 
 table. 
+<br>
 Question - 6] Identify rooms whose Capacity is greater than the average Capacity of all rooms. 
-Question - 7] Create a VIEW StaffContact showing Staff FirstName, LastName, Role, and 
+<br>  
+Question - 7] Create a VIEW StaffContact showing Staff FirstName, LastName, Role, and Phone.
+<br>
 Question - 8] The receptionist wants to offer Suite rooms under ₹7000 to business travelers. 
-Question - 9] The admin wants to see email addresses sorted by LastName from the Customers 
+<br>
+Question - 9] The admin wants to see email addresses sorted by LastName from the Customers table.
+<br>
 Question - 10] Show staff full names combined into one column. 
+<br>
 Question - 11] Display all payment details in one line using CONCAT_WS. 
+<br>
 Question - 12] The hotel wants to display the 2 most expensive rooms for VIP guests. 
+<br>      
 Question - 13] Show each BookingID with its CheckIn and CheckOut dates combined. 
+<br>
 Question - 14] Finance wants to calculate the average Amount per PaymentMethod. 
+<br>
 Question - 15] The analytics team wants to find the city where average CustomerID is greater 
 than 50. 
+<br>
 Question - 16] Find bookings where TotalAmount exceeds the average TotalAmount. (Bookings 
 subquery) 
+<br>
 Question - 17] Display the last 2 added rooms from the Rooms table. 
+<br>
 Question - 18] The cashier wants a report of payments where Amount < ₹1500 for small 
 transactions. 
+<br>
 Question - 19] Management wants to list all customers who have made more than 5 bookings. 
+<br>
 Question - 20] Identify customers who live in the same city. (Customers self join) 
+<br>
 Question - 21] Show the total revenue handled by each StaffID. 
+<br>
 Question - 22] The manager wants to see all customers from Mumbai to check city-wise 
 marketing campaigns. 
+<br>
 Question - 23] Display the 3 lowest booking amounts. 
 booking is deleted. 
 'Rahul'. 
+<br>
 Question - 24] Insert 5 new room records with type, price, and capacity into the Rooms table. 
+<br>
 Question - 25] Show all unique CustomerIDs from bookings. 
+<br>
 Question - 26] Create a trigger to automatically delete a payment when its corresponding 
 Question - 27] The marketing team wants to update the FirstName of CustomerID = 30 to 
 Question - 28] List all bookings ordered by CheckInDate. 
