@@ -159,174 +159,174 @@ Question - 67] Show the 3 cheapest rooms available for budget travelers.
 <br>
 Question - 68] Display the last 2 payments. 
 <br>Question - 69] Management wants to know which unique cities customers come from. 
-Question - 70] List all bookings where TotalAmount > 5000. 
-Question - 71] Display each staff’s Role with their Email in one column. 
-Question - 72] Show the first 4 staff full names. 
-Question - 73] Find bookings where TotalAmount is greater than all bookings made by 
+<br>Question - 70] List all bookings where TotalAmount > 5000. 
+<br>Question - 71] Display each staff’s Role with their Email in one column. 
+<br>Question - 72] Show the first 4 staff full names. 
+<br>Question - 73] Find bookings where TotalAmount is greater than all bookings made by 
 CustomerID = 10. (Bookings subquery) 
-Question - 74] List rooms with capacity >= 3 for family bookings. 
-Question - 75] Display the RoomType and Price of only Suite rooms. 
-Question - 76] The cashier wants to see payments with Amount between ₹2000 and ₹7000 for 
+<br>Question - 74] List rooms with capacity >= 3 for family bookings. 
+<br>Question - 75] Display the RoomType and Price of only Suite rooms. 
+<br>Question - 76] The cashier wants to see payments with Amount between ₹2000 and ₹7000 for 
 mid-range billing checks. 
-Question - 77] Insert 5 booking records into the Bookings table with all details. 
-Question - 78] Display the 3 lowest payments made by customers. 
-Question - 80] Show all unique RoomIDs in descending order. 
+<br>Question - 77] Insert 5 booking records into the Bookings table with all details. 
+<br>Question - 78] Display the 3 lowest payments made by customers. 
+<br>Question - 80] Show all unique RoomIDs in descending order. 
 study. 
-Question - 79] Show each booking’s BookingID with TotalAmount using CONCAT. 
-Question - 81] Display each room’s RoomType and Price using CONCAT_WS. 
-Question - 82] The admin wants to delete all bookings handled by StaffID = 3. 
-Question - 83] Show customers whose FirstName length > 5 characters for a name-pattern 
-Question - 84] Show all unique roles available in the hotel. 
-Question - 85] List all rooms where capacity is greater than 2. 
-Question - 86] Display each payment’s ID with Amount using CONCAT. 
-Question - 87] List all Card payments from the Payments table. 
-Question - 88] Delete all customers whose Email ends with '@test.com' as invalid. 
-Question - 89] The hotel manager wants to review bookings where CheckOutDate before '2023
+<br>Question - 79] Show each booking’s BookingID with TotalAmount using CONCAT. 
+<br>Question - 81] Display each room’s RoomType and Price using CONCAT_WS. 
+<br>Question - 82] The admin wants to delete all bookings handled by StaffID = 3. 
+<br>Question - 83] Show customers whose FirstName length > 5 characters for a name-pattern 
+<br>Question - 84] Show all unique roles available in the hotel. 
+<br>Question - 85] List all rooms where capacity is greater than 2. 
+<br>Question - 86] Display each payment’s ID with Amount using CONCAT. 
+<br>Question - 87] List all Card payments from the Payments table. 
+<br>Question - 88] Delete all customers whose Email ends with '@test.com' as invalid. 
+<br>Question - 89] The hotel manager wants to review bookings where CheckOutDate before '2023
 12-31' to measure old occupancy. 
-Question - 90] The front office manager needs to list rooms with capacity = 2 for couples. 
-Question - 91] Show all unique capacities in descending order. 
-Question - 92] The operations team wants to find the minimum TotalAmount in bookings. 
-Question - 93] Display all rooms by capacity in ascending order. 
-Question - 94] Show each booking’s BookingID with TotalAmount using CONCAT. 
-Question - 95] The operations head wants to see rooms with Capacity = 4 AND PricePerNight > 
+<br>Question - 90] The front office manager needs to list rooms with capacity = 2 for couples. 
+<br>Question - 91] Show all unique capacities in descending order. 
+<br>Question - 92] The operations team wants to find the minimum TotalAmount in bookings. 
+<br>Question - 93] Display all rooms by capacity in ascending order. 
+<br>Question - 94] Show each booking’s BookingID with TotalAmount using CONCAT. 
+<br>Question - 95] The operations head wants to see rooms with Capacity = 4 AND PricePerNight > 
 ₹6000 for premium family packages. 
-Question - 96] Show staff full names combined into one column. 
-Question - 97] The accounts team wants to see bookings where the TotalAmount is greater than 
+<br>Question - 96] Show staff full names combined into one column. 
+<br>Question - 97] The accounts team wants to see bookings where the TotalAmount is greater than 
 ₹10,000 to track high-value customers. 
-Question - 98] Show all unique payment methods in descending order. 
+<br>Question - 98] Show all unique payment methods in descending order. 
 JOIN between Customers and Bookings. 
-Question - 99] List staff members who share the same Role. (Staff self join) 
-Question - 100] Show customer first name, last name, and TotalAmount of their bookings using 
-Question - 101] Display the first 4 bookings only. 
-Question - 102] Show all unique staff first names. 
-Question - 103] Insert 5 new room records with type, price, and capacity into the Rooms table. 
-Question - 104] Display each customer’s full name and city using CONCAT_WS. 
-Question - 105] Show all unique cities in descending order from the Customers table. 
-Question - 106] The analytics team wants to list all cities where maximum CustomerID is more than 100.
-Question - 107] The HR team wants to see staff whose FirstName is 'Priya' for employee 
+<br>Question - 99] List staff members who share the same Role. (Staff self join) 
+<br>Question - 100] Show customer first name, last name, and TotalAmount of their bookings using 
+<br>Question - 101] Display the first 4 bookings only. 
+<br>Question - 102] Show all unique staff first names. 
+<br>Question - 103] Insert 5 new room records with type, price, and capacity into the Rooms table. 
+<br>Question - 104] Display each customer’s full name and city using CONCAT_WS. 
+<br>Question - 105] Show all unique cities in descending order from the Customers table. 
+<br>Question - 106] The analytics team wants to list all cities where maximum CustomerID is more than 100.
+<br>Question - 107] The HR team wants to see staff whose FirstName is 'Priya' for employee 
 recognition. 
-Question - 108] Display the last 2 staff members from the Staff table. 
-Question - 109] Create a VIEW BookingSummary showing BookingID, CustomerID, RoomID, 
+<br>Question - 108] Display the last 2 staff members from the Staff table. 
+<br>Question - 109] Create a VIEW BookingSummary showing BookingID, CustomerID, RoomID, 
 and TotalAmount. 
-Question - 110] Show all unique RoomIDs in descending order. 
-Question - 111] Display each staff’s role with their full name. 
-Question - 112] The receptionist wants to offer Suite rooms under ₹7000 to business travelers. 
-Question - 113] Display the first 3 staff alphabetically by their first names. 
-Question - 114] List all bookings ordered by CheckInDate. 
-Question - 115] Show all unique StaffIDs from the bookings. 
-Question - 116] Display the first 4 customers’ full names only. 
-Question - 117] Show all unique room types offered by the hotel. 
-Question - 118] Display the phone number of the Waiter only. 
-Question - 119] Show all bookings where TotalAmount > 5000. 
-Question - 120] The HR team wants to update Role = 'Senior Manager' where StaffID = 12. 
-Question - 121] List all staff working as Managers. 
-Question - 122] Show the last 2 registered customers for follow-up. 
-Question - 123] Display each booking’s BookingID with TotalAmount using CONCAT. 
-Question - 124] Insert 5 staff members into the Staff table with their role, phone, and email. 
-Question - 125] Display the RoomType and Price of only Suite rooms. 
-Question - 126] The admin wants to delete all payments linked to BookingID = 15. 
-Question - 127] Display all unique capacities in descending order. 
-Question - 128] Show the first 4 rooms sorted alphabetically by RoomType. 
-Question - 129] The cashier wants a report of payments where Amount < ₹1500 for small 
+<br>Question - 110] Show all unique RoomIDs in descending order. 
+<br>Question - 111] Display each staff’s role with their full name. 
+<br>Question - 112] The receptionist wants to offer Suite rooms under ₹7000 to business travelers. 
+<br>Question - 113] Display the first 3 staff alphabetically by their first names. 
+<br>Question - 114] List all bookings ordered by CheckInDate. 
+<br>Question - 115] Show all unique StaffIDs from the bookings. 
+<br>Question - 116] Display the first 4 customers’ full names only. 
+<br>Question - 117] Show all unique room types offered by the hotel. 
+<br>Question - 118] Display the phone number of the Waiter only. 
+<br>Question - 119] Show all bookings where TotalAmount > 5000. 
+<br>Question - 120] The HR team wants to update Role = 'Senior Manager' where StaffID = 12. 
+<br>Question - 121] List all staff working as Managers. 
+<br>Question - 122] Show the last 2 registered customers for follow-up. 
+<br>Question - 123] Display each booking’s BookingID with TotalAmount using CONCAT. 
+<br>Question - 124] Insert 5 staff members into the Staff table with their role, phone, and email. 
+<br>Question - 125] Display the RoomType and Price of only Suite rooms. 
+<br>Question - 126] The admin wants to delete all payments linked to BookingID = 15. 
+<br>Question - 127] Display all unique capacities in descending order. 
+<br>Question - 128] Show the first 4 rooms sorted alphabetically by RoomType. 
+<br>Question - 129] The cashier wants a report of payments where Amount < ₹1500 for small 
 transactions. 
-Question - 130] Show each booking’s BookingID with TotalAmount using CONCAT. 
-Question - 131] Display the last 2 added rooms from the Rooms table. 
-Question - 132] List all customers whose FirstName = 'Amit' AND City = 'Nagpur' for personal 
+<br>Question - 130] Show each booking’s BookingID with TotalAmount using CONCAT. 
+<br>Question - 131] Display the last 2 added rooms from the Rooms table. 
+<br>Question - 132] List all customers whose FirstName = 'Amit' AND City = 'Nagpur' for personal 
 attention. 
-Question - 133] Insert 5 new customer details into the Customers table. 
-Question - 134] Show staff full names combined into one column. 
-Question - 135] Show all room details separated by commas using CONCAT_WS. 
-Question - 136] Display each customer’s name and phone number together using CONCAT. 
-Question - 137] Display all payment details in one line using CONCAT_WS. 
-Question - 138] Show the last 2 bookings in the table. 
-Question - 139] List all payments ordered by PaymentDate. 
-Question - 140] Show the 2 highest payments received. 
+<br>Question - 133] Insert 5 new customer details into the Customers table. 
+<br>Question - 134] Show staff full names combined into one column. 
+<br>Question - 135] Show all room details separated by commas using CONCAT_WS. 
+<br>Question - 136] Display each customer’s name and phone number together using CONCAT. 
+<br>Question - 137] Display all payment details in one line using CONCAT_WS. 
+<br>Question - 138] Show the last 2 bookings in the table. 
+<br>Question - 139] List all payments ordered by PaymentDate. 
+<br>Question - 140] Show the 2 highest payments received. 
 loyalty program. 
-Question - 141] The marketing team wants to check customers whose FirstName is 'Rahul' for a 
-Question - 142] Display each PaymentID with its method using CONCAT. 
-Question - 143] The operations team wants to list all PaymentMethods used more than 5 times. 
-Question - 144] Show the 2 most expensive rooms for VIP guests. 
-Question - 145] Show each room’s RoomType and Price using CONCAT_WS. 
-Question - 146] Display the first 3 staff alphabetically by their first names. 
-Question - 147] List all bookings handled by StaffID = 2. 
-Question - 148] The analytics team wants to find the city where average CustomerID is greater 
+<br>Question - 141] The marketing team wants to check customers whose FirstName is 'Rahul' for a 
+<br>Question - 142] Display each PaymentID with its method using CONCAT. 
+<br>Question - 143] The operations team wants to list all PaymentMethods used more than 5 times. 
+<br>Question - 144] Show the 2 most expensive rooms for VIP guests. 
+<br>Question - 145] Show each room’s RoomType and Price using CONCAT_WS. 
+<br>Question - 146] Display the first 3 staff alphabetically by their first names. 
+<br>Question - 147] List all bookings handled by StaffID = 2. 
+<br>Question - 148] The analytics team wants to find the city where average CustomerID is greater 
 than 50. 
-Question - 149] The hotel wants to display the 2 most expensive rooms for VIP guests. 
-Question - 150] Show all unique first names of customers for a duplicate check. 
-Question - 151] Show all unique roles in descending order. 
-Question - 152] Identify rooms whose Capacity is greater than the average Capacity of all 
+<br>Question - 149] The hotel wants to display the 2 most expensive rooms for VIP guests. 
+<br>Question - 150] Show all unique first names of customers for a duplicate check. 
+<br>Question - 151] Show all unique roles in descending order. 
+<br>Question - 152] Identify rooms whose Capacity is greater than the average Capacity of all 
 rooms. (Rooms subquery) 
-Question - 153] Display all rooms by capacity in ascending order. 
-Question - 154] Display the first 4 payments only. 
-Question - 155] Show each payment’s ID, Method, Amount in one line. 
-Question - 156] List all bookings where TotalAmount > 5000. 
+<br>Question - 153] Display all rooms by capacity in ascending order. 
+<br>Question - 154] Display the first 4 payments only. 
+<br>Question - 155] Show each payment’s ID, Method, Amount in one line. 
+<br>Question - 156] List all bookings where TotalAmount > 5000. 
 (Customers subquery) 
 reallocation. 
 ₹10,000. 
-Question - 157] Find all customers whose CustomerID is greater than the average CustomerID. 
-Question - 158] The HR manager wants to see staff whose Role is not 'Chef' for role 
-Question - 159] The accounts team wants to check bookings where TotalAmount is greater than 
-Question - 160] Display each staff’s role with their full name. 
-Question - 161] List staff members who share the same Role. (Staff self join) 
-Question - 162] Show Customer Name and Payment Amount by joining Customers, Bookings, 
+<br>Question - 157] Find all customers whose CustomerID is greater than the average CustomerID. 
+<br>Question - 158] The HR manager wants to see staff whose Role is not 'Chef' for role 
+<br>Question - 159] The accounts team wants to check bookings where TotalAmount is greater than 
+<br>Question - 160] Display each staff’s role with their full name. 
+<br>Question - 161] List staff members who share the same Role. (Staff self join) 
+<br>Question - 162] Show Customer Name and Payment Amount by joining Customers, Bookings, 
 and Payments. 
-Question - 163] Display all bookings where TotalAmount > 5000.
-Question - 164] The front desk wants to see customers whose Phone starts with '98'. 
-Question - 165] Identify customers who live in the same city. (Customers self join) 
-Question - 166] The operations manager wants to check bookings with CheckOutDate before 
+<br>Question - 163] Display all bookings where TotalAmount > 5000.
+<br>Question - 164] The front desk wants to see customers whose Phone starts with '98'. 
+<br>Question - 165] Identify customers who live in the same city. (Customers self join) 
+<br>Question - 166] The operations manager wants to check bookings with CheckOutDate before 
 '2023-12-31'. 
-Question - 167] Display all unique StaffIDs from the bookings. 
-Question - 168] Create a VIEW OnlinePayments showing all payments made by 
+<br>Question - 167] Display all unique StaffIDs from the bookings. 
+<br>Question - 168] Create a VIEW OnlinePayments showing all payments made by 
 PaymentMethod = 'Online'. 
-Question - 169] Display all unique payment methods in descending order. 
-Question - 170] Display each payment’s ID with Amount using CONCAT. 
-Question - 171] Show all unique RoomIDs in descending order. 
-Question - 172] The analytics team wants to list all cities where maximum CustomerID is more 
+<br>Question - 169] Display all unique payment methods in descending order. 
+<br>Question - 170] Display each payment’s ID with Amount using CONCAT. 
+<br>Question - 171] Show all unique RoomIDs in descending order. 
+<br>Question - 172] The analytics team wants to list all cities where maximum CustomerID is more 
 than 100. 
-Question - 173] List staff emails ordered by their roles. 
+<br>Question - 173] List staff emails ordered by their roles. 
 (Bookings subquery) 
 recommendations. 
-Question - 174] Find bookings where TotalAmount exceeds the average TotalAmount. 
-Question - 175] Show all rooms where PricePerNight > ₹5000 for premium customer 
-Question - 176] Show all unique capacities in descending order. 
-Question - 177] Display the first 4 rooms sorted alphabetically by RoomType. 
-Question - 178] Show all unique staff first names. 
-Question - 179] Identify rooms with PricePerNight higher than the maximum PricePerNight of 
+<br>Question - 174] Find bookings where TotalAmount exceeds the average TotalAmount. 
+<br>Question - 175] Show all rooms where PricePerNight > ₹5000 for premium customer 
+<br>Question - 176] Show all unique capacities in descending order. 
+<br>Question - 177] Display the first 4 rooms sorted alphabetically by RoomType. 
+<br>Question - 178] Show all unique staff first names. 
+<br>Question - 179] Identify rooms with PricePerNight higher than the maximum PricePerNight of 
 rooms with Capacity = 2. (Rooms subquery) 
-Question - 180] Show all unique cities in descending order from the Customers table.
-Question - 181] List all bookings where TotalAmount > 5000. 
-Question - 182] Show PaymentID, Customer Name, and BookingID for payments made using 
+<br>Question - 180] Show all unique cities in descending order from the Customers table.
+<br>Question - 181] List all bookings where TotalAmount > 5000. 
+<br>Question - 182] Show PaymentID, Customer Name, and BookingID for payments made using 
 'Credit Card'. 
-Question - 183] Display each booking’s BookingID with TotalAmount using CONCAT. 
-Question - 184] Show all bookings handled by StaffID = 2. 
-Question - 185] Display the last 2 added rooms from the Rooms table. 
-Question - 186] List all rooms where capacity is greater than 2. 
-Question - 187] Display the last 2 staff members from the Staff table. 
-Question - 188] Show all unique roles available in the hotel. 
-Question - 189] Display the last 2 payments. 
-Question - 190] The manager wants to see bookings where CustomerID IN (2,4,6,8) to track 
+<br>Question - 183] Display each booking’s BookingID with TotalAmount using CONCAT. 
+<br>Question - 184] Show all bookings handled by StaffID = 2. 
+<br>Question - 185] Display the last 2 added rooms from the Rooms table. 
+<br>Question - 186] List all rooms where capacity is greater than 2. 
+<br>Question - 187] Display the last 2 staff members from the Staff table. 
+<br>Question - 188] Show all unique roles available in the hotel. 
+<br>Question - 189] Display the last 2 payments. 
+<br>Question - 190] The manager wants to see bookings where CustomerID IN (2,4,6,8) to track 
 repeat guests. 
-Question - 191] Show all unique first names of customers for a duplicate check. 
-Question - 192] Display all bookings where TotalAmount > 5000. 
-Question - 193] The admin wants to delete all payments where Amount < 1000. 
-Question - 194] Display all unique RoomIDs in descending order. 
-Question - 195] List customers who made more than 5 bookings. 
-Question - 196] Display all rooms by capacity in ascending order. 
-Question - 197] Show each booking’s BookingID with TotalAmount using CONCAT. 
-Question - 198] List all staff working as Managers. 
-Question - 199] Show customers whose FirstName length > 5 characters for a name-pattern 
+<br>Question - 191] Show all unique first names of customers for a duplicate check. 
+<br>Question - 192] Display all bookings where TotalAmount > 5000. 
+<br>Question - 193] The admin wants to delete all payments where Amount < 1000. 
+<br>Question - 194] Display all unique RoomIDs in descending order. 
+<br>Question - 195] List customers who made more than 5 bookings. 
+<br>Question - 196] Display all rooms by capacity in ascending order. 
+<br>Question - 197] Show each booking’s BookingID with TotalAmount using CONCAT. 
+<br>Question - 198] List all staff working as Managers. 
+<br>Question - 199] Show customers whose FirstName length > 5 characters for a name-pattern 
 study. 
-Question - 200] Display all unique capacities in descending order. 
-Question - 201] List staff members who share the same Role. (Staff self join) 
-Question - 202] Show PaymentID, Customer Name, and BookingID for payments made using 
+<br>Question - 200] Display all unique capacities in descending order. 
+<br>Question - 201] List staff members who share the same Role. (Staff self join) 
+<br>Question - 202] Show PaymentID, Customer Name, and BookingID for payments made using 
 'Credit Card'. 
-Question - 203] Display the first 4 payments only. 
-Question - 204] Show each payment’s ID, Method, Amount in one line. 
-Question - 205] Create a VIEW HighValueBookings showing all bookings with TotalAmount > 
+<br>Question - 203] Display the first 4 payments only. 
+<br>Question - 204] Show each payment’s ID, Method, Amount in one line. 
+<br>Question - 205] Create a VIEW HighValueBookings showing all bookings with TotalAmount > 
 20,000. 
-Question - 206] Create a trigger to automatically delete a payment when its corresponding 
+<br>Question - 206] Create a trigger to automatically delete a payment when its corresponding 
 booking is deleted. 
-Question - 207] Create a trigger to prevent insertion of a booking where CheckOutDate < 
+<br>Question - 207] Create a trigger to prevent insertion of a booking where CheckOutDate < 
 CheckInDate. 
-Question - 208] Create a trigger to automatically update TotalAmount in Bookings when a 
+<br>Question - 208] Create a trigger to automatically update TotalAmount in Bookings when a 
 payment is inserted in Payments.
