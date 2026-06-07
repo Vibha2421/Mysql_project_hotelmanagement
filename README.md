@@ -63,59 +63,102 @@ Question - 24] Insert 5 new room records with type, price, and capacity into the
 <br>
 Question - 25] Show all unique CustomerIDs from bookings. 
 <br>
+<br>
 Question - 26] Create a trigger to automatically delete a payment when its corresponding 
+<br>
 Question - 27] The marketing team wants to update the FirstName of CustomerID = 30 to 
+<br>
 Question - 28] List all bookings ordered by CheckInDate. 
+<br>
 Question - 29] Show all rooms where capacity is greater than 2. 
+<br>
 Question - 30] List staff emails ordered by their roles.
+<br>
 Question - 31] Display each customer’s full name and city using CONCAT_WS. 
+<br>
 Question - 32] Show the first 4 customers’ full names only. 
+<br>
 Question - 33] Show each staff’s role with their full name. 
+<br>
 Question - 34] Management wants to find the average StaffID per role. 
+<br>
 Question - 35] List all bookings handled by StaffID = 2. 
+<br>
 Question - 36] Display the first 3 staff alphabetically by their first names. 
+<br>
 Question - 37] The front desk manager wants to see customers where FirstName = 'Amit' AND 
 City = 'Nagpur' for personal attention. 
+<br>
 Question - 38] Show all unique payment methods in descending order. 
+<br>
 Question - 39] Insert 5 staff members into the Staff table with their role, phone, and email. 
+<br>
 Question - 40] The hotel manager wants to review bookings where CheckInDate is after '2024
 01-01' to analyze recent occupancy. 
+<br>
 Question - 41] List all customers whose FirstName is 'Rahul' for a loyalty program. 
+<br>
 Question - 42] Show all unique room types offered by the hotel. 
 ups. 
+<br>
 Question - 43] Identify customers who spent more than 50,000 in total. 
+<br>
 Question - 44] Delete all customers from the city 'TestCity'. 
+<br>
 Question - 45] Find rooms that have the same PricePerNight. (Rooms self join) 
+<br>
 Question - 46] The manager wants to see staff whose Email ends with '@tcs.in' for corporate tie
+<br>
 Question - 47] The analytics team wants to list all cities where maximum CustomerID is more 
 than 100. 
+<br>
 Question - 48] Show all unique capacities in descending order. 
+<br>
 Question - 49] List staff working as Managers.
+<br>
 Question - 50] Display each payment’s ID, Method, Amount in one line. 
+<br>
 Question - 51] Show the first 4 payments only. 
+<br>
 Question - 52] The hotel manager wants to review rooms where PricePerNight is between ₹2000 
 and ₹4000 to offer discounts. 
+<br>
 Question - 53] List all bookings ordered by CheckInDate. 
+<br>
 Question - 54] Display all unique CustomerIDs from bookings. 
+<br>
 Question - 55] The hotel manager wants to add new customer details. Insert 5 records with full 
 details into the Customers table. 
+<br>
 Question - 56] Show the last 2 staff hired. 
+<br>
 Question - 57] Identify rooms with PricePerNight higher than the maximum PricePerNight of 
 rooms with Capacity = 2. (Rooms subquery) 
+<br>
 Question - 58] The HR team wants to see staff whose Role is not 'Chef' for role reallocation. 
+<br>
 Question - 59] Show all unique cities in descending order from the Customers table. 
+<br>
 Question - 60] Display the phone number of the Waiter only. 
+<br>
 Question - 61] Display the last 2 bookings in the table. 
 targeted promotions. 
+<br>
 Question - 62] The marketing team wants to see customers living in Delhi or Chennai for 
+<br>
 Question - 63] Show all rooms where RoomType != 'Family' to plan renovations. 
+<br>
 Question - 64] List staff emails ordered by their roles. 
+<br>
 Question - 65] Display all unique payment methods. 
+<br>
 Question - 66] The receptionist wants a list of customers whose Phone starts with '98' for mobile 
 offers. 
+<br>
 Question - 67] Show the 3 cheapest rooms available for budget travelers.
+<br>
 Question - 68] Display the last 2 payments. 
-Question - 69] Management wants to know which unique cities customers come from. 
+<br>Question - 69] Management wants to know which unique cities customers come from. 
 Question - 70] List all bookings where TotalAmount > 5000. 
 Question - 71] Display each staff’s Role with their Email in one column. 
 Question - 72] Show the first 4 staff full names. 
