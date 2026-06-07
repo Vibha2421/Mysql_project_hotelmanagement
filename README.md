@@ -8,6 +8,7 @@ CustomerID (Primary Key)
 FirstName, LastName
 
 Phone, Email, City
+
 <br>
 
 **2. Rooms Table**
@@ -16,6 +17,7 @@ RoomID (Primary Key)
 RoomType (e.g., Suite, Family, Deluxe)
 
 PricePerNight, Capacity
+
 <br>
 
 **3. Staff Table**
