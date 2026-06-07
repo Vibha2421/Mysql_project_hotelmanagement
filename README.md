@@ -53,4 +53,8 @@ PaymentMethod (e.g., UPI, Card, Online, Credit Card)
 
 Amount, PaymentDate
 
+<br>
+
+**Visual Schema**
+
 
