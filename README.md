@@ -56,5 +56,6 @@ Amount, PaymentDate
 <br>
 
 **Visual Schema**
+<img width="866" height="827" alt="image" src="https://github.com/user-attachments/assets/2af78306-5edb-4432-b1db-72d56b339f13" />
 
 
