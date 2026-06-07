@@ -1,10 +1,14 @@
 # Mysql_project_hotelmanagement
 <br>
 Hotel_Management_System- Questions
+<br>
 Question - 1] The accounts team wants to check payments made via UPI to measure digital 
 adoption. 
+<br>
 Question - 2] List all unique first names of customers for a duplicate check. 
+<br>
 Question - 3] Delete all rooms with Capacity = 1. 
+<br>
 Question - 4] Display each customer’s name and phone number together using CONCAT. 
 Question - 5] The booking office wants to see bookings where RoomID = 10 to check utilization 
 of a specific room. 
